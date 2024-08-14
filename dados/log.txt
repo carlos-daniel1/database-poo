@@ -1,0 +1,3 @@
+INFO - arquivo nao salvo
+ERROR - codigo errado
+DEBUG - codigo muito estranho

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Garrafa",
+    "detalhes": {
+      "cor": "cinza",
+      "marca": "stanley"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Mochila",
+    "detalhes": {
+      "cor": "preto",
+      "marca": "nike"
+    }
+  }
+]
